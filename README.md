@@ -25,4 +25,3 @@ https://github.com/martandsingh/BigDataAnalytics/tree/main/ClouderaSetup
 
 
 
-#### If you want to contribute, we welcome you. please contact us at martandsays@gmail.com
